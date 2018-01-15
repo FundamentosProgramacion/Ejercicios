@@ -1,4 +1,4 @@
-#AaronAlejenadro Rosas Jimenez
+#Aaron Alejandro Rosas Jimenez
 #Area de helado
 radio = int(input("Teclea el radio:"))
 altura = int(input("Teclea la altura:"))
